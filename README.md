@@ -1,4 +1,4 @@
-# myproject2
+# carousel
 
 > A Vue.js project
 
